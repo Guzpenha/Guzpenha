@@ -4,11 +4,12 @@
 
 <!-- <h2 align="center">About me</h2>-->
 
-- 🌱 Doing a PhD in CS. [**research**](https://guzpenha.github.io/guzblog/)
-- 💻 Developing [**transformer-rankers**](https://guzpenha.github.io/transformer_rankers/).
+- 🌱 Currently a PhD candidate in CS. [**research**](https://guzpenha.github.io/guzblog/)
+- 💻 Developed [**transformer-rankers**](https://guzpenha.github.io/transformer_rankers/).
 - 📷 Photographing streets. [**photography**](https://guzpenha.github.io/gallery/)
-- 📈 Worked as a Data Scientist for 3 years.
-- 🏋️ Trying to lift weights, read books 📚 and to cook 👨‍🍳 regularly.
+- 🤖 Interned at Amazon's Alexa Shopping team.
+- 📈 Worked as a Data Scientist for 3 years. 
+- 🏋️ Trying to lift weights and read books regularly.
 
 
 
