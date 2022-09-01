@@ -9,7 +9,7 @@
 - 📷 Street photographer. [**photography**](https://guzpenha.github.io/gallery/)
 - 📈 Worked as a Data Scientist for 3 years.
 - 📦 Interned at Amazon's Alexa Shopping research in 2021.
-- 🎵 Internship planned with Spotify Research in 2022.
+- 🎵 Interned at Spotify Research in 2022.
 
 
 
