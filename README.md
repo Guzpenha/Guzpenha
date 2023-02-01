@@ -4,12 +4,14 @@
 
 <!-- <h2 align="center">About me</h2>-->
 
-- 🌱 Currently a PhD candidate in CS. [**research**](https://guzpenha.github.io/guzblog/)
+- 🎙️ I am a research scientist at Spotify, started in 2023.
+- 📷 I am also a street photographer. [**photography**](https://guzpenha.github.io/gallery/)
+- 🌱 Will soon defend PhD at Tu Delft. [**research**](https://guzpenha.github.io/guzblog/)
 - 💻 Developed [**transformer-rankers**](https://guzpenha.github.io/transformer_rankers/) for research.
-- 📷 Street photographer. [**photography**](https://guzpenha.github.io/gallery/)
-- 📈 Worked as a Data Scientist for 3 years.
-- 📦 Interned at Amazon's Alexa Shopping research in 2021.
 - 🎵 Interned at Spotify Research in 2022.
+- 📦 Interned at Amazon's Alexa Shopping research in 2021.
+- 📈 Worked as a Data Scientist for 3 years.
+
 
 
 
