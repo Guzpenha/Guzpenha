@@ -4,7 +4,7 @@
 
 <!-- <h2 align="center">About me</h2>-->
 
-- 🎙️ I am currently a research scientist at Spotify since Jan. 2023. [**Spotify paper**](https://research.atspotify.com/2023/05/improving-retrievability-in-search-with-query-generation/) [**research**](https://guzpenha.github.io/guzblog/)
+- 🎙️ I am currently a research scientist at Spotify since Jan. 2023. [**research**](https://guzpenha.github.io/guzblog/)
 - 🌱 PhD from TU Delft. [**thesis**](https://repository.tudelft.nl/islandora/object/uuid:acdfb704-6310-4b28-b884-4bd3e78b3f84?collection=research)
 - 🎵 Interned at Spotify Research in 2022 and at Amazon's Alexa Shopping Research in 2021.
 - 📈 Worked as a Data Scientist for 3 years.
